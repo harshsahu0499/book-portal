@@ -1,0 +1,19 @@
+# Java / Maven
+book-portal-backend/target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node / React
+book-portal-frontend/node_modules/
+book-portal-frontend/dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets - credentials
+**/application-local.properties
+.env
